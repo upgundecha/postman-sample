@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+- '6'
+
+before_script:
+  - npm install newman --global
+
+script:
+  - newman run sample_service.postman_collection

@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Sample Service",
+		"_postman_id": "8c178994-02bc-1a85-c3b1-a1c11cd442b8",
+		"description": "Parabank Example Service Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://jsonplaceholder.typicode.com/posts/1",
+			"request": {
+				"url": "https://jsonplaceholder.typicode.com/posts/1",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
